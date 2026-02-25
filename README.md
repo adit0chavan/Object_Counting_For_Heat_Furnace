@@ -2,13 +2,6 @@
 
 ![Project Poster](SKF.png)
 
-## Project Team
-- Mr. [Aditya Chavan - LinkedIn](https://www.linkedin.com/in/aditya-chavan-5117aa268/)
-- Mr. [Bhavin Baldota - LinkedIn](https://www.linkedin.com/in/bhavin-baldota-103553234/)
-- Ms. [Sharvari Korde - LinkedIn](https://www.linkedin.com/in/sharvari-korde-85b993268/)
-- Mr. [Saumya Shah - LinkedIn](https://www.linkedin.com/in/saumya-shah-9b2579273/)
-
-
 ## Overview
 This project implements a computer vision system for real-time counting of parts at inlet and outlet sections of multistage heat treatment furnaces. The system utilizes YOLOv8 object detection to achieve high accuracy in a challenging industrial environment.
 
